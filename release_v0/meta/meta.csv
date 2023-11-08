@@ -814,7 +814,7 @@ case_num,diagnosis,seven_point_score,pigment_network,streaks,pigmentation,regres
 813,melanoma (more than 1.5 mm),10,atypical,irregular,diffuse irregular,combinations,irregular,present,linear irregular,low,nodular,lower limbs,male,excision,Gzl/gzl63.jpg,Gzl/gzl64.jpg,,
 814,melanoma (more than 1.5 mm),5,absent,absent,absent,absent,irregular,present,dotted,high,nodular,buttocks,female,excision,Gzl/gzl77.jpg,Gzl/gzl78.jpg,,
 815,melanoma (more than 1.5 mm),7,atypical,irregular,localized irregular,absent,irregular,present,absent,medium,nodular,upper limbs,female,excision,FCL/FCL053.JPG,FCL/FCL054.JPG,,
-816,melanoma (more than 1.5 mm),4,absent,irregular,localized irregular,absent,regular,present,absent,medium,palpable,lower limbs,female,excision,FCL/FCL067.JPG,FCL/FCL068.jpg,,
+816,melanoma (more than 1.5 mm),4,absent,irregular,localized irregular,absent,regular,present,absent,medium,palpable,lower limbs,female,excision,FCL/FCL067.JPG,FCL/Fcl068.jpg,,
 817,melanoma (more than 1.5 mm),7,absent,irregular,diffuse irregular,absent,irregular,present,linear irregular,low,nodular,chest,male,excision,FDL/Fdl051.jpg,FDL/FDL052.JPG,,
 818,melanoma (more than 1.5 mm),7,atypical,irregular,diffuse irregular,absent,irregular,present,absent,low,nodular,lower limbs,female,excision,Gcl/Gcl038.jpg,Gcl/Gcl039.jpg,,
 819,melanoma (more than 1.5 mm),7,typical,irregular,diffuse irregular,absent,irregular,present,linear irregular,medium,nodular,chest,male,excision,Gcl/Gcl051.jpg,Gcl/Gcl052.jpg,,
